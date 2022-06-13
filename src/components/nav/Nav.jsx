@@ -15,7 +15,6 @@ const Nav = () => {
         <a href="#experience"><BsBookHalf/></a>
         <a href="#services"><RiServiceFill/></a>
         <a href="#contact"><BiMessageRoundedDots/></a>
-
     </nav>
 
     

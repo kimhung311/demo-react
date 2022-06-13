@@ -6,8 +6,6 @@ import {VscGithub} from 'react-icons/vsc'
 import {BsGoogle} from 'react-icons/bs'
 import {FaFacebookSquare} from 'react-icons/fa'
 
-
-
 const HeaderSocials = () => {
   return (
         <div className="header_socials">
